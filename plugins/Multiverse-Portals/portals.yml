@@ -1,0 +1,21 @@
+portals:
+  spawntotreaty:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Blade242141
+    location: 671.0,103.0,-66.0:671.0,108.0,-62.0
+    world: Server
+    destination: p:treatytospawn
+  treatytospawn:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Blade242141
+    location: 663.0,110.0,-67.0:663.0,114.0,-63.0
+    world: Server
+    destination: p:spawntotreaty

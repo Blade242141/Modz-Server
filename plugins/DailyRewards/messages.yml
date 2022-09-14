@@ -1,0 +1,3 @@
+no-rewards: '&aRewards&f: &fYou do not have any available rewards at the moment.'
+cooldown-msg: '&aRewards&f: &fTime until next reward: %h Hour(s) %m Minute(s) %s Second(s)'
+no-permission: '&aRewards&f: &fYou do not have permission to do this.'
